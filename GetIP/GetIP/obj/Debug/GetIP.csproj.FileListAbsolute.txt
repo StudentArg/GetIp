@@ -1,0 +1,8 @@
+C:\Users\amade\Documents\getIP\GetIP\GetIP\obj\Debug\GetIP.csproj.AssemblyReference.cache
+C:\Users\amade\Documents\getIP\GetIP\GetIP\obj\Debug\GetIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\amade\Documents\getIP\GetIP\GetIP\obj\Debug\GetIP.csproj.CoreCompileInputs.cache
+C:\Users\amade\Documents\getIP\GetIP\GetIP\bin\Debug\GetIP.exe.config
+C:\Users\amade\Documents\getIP\GetIP\GetIP\bin\Debug\GetIP.exe
+C:\Users\amade\Documents\getIP\GetIP\GetIP\bin\Debug\GetIP.pdb
+C:\Users\amade\Documents\getIP\GetIP\GetIP\obj\Debug\GetIP.exe
+C:\Users\amade\Documents\getIP\GetIP\GetIP\obj\Debug\GetIP.pdb
